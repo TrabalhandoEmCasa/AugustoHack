@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Oct 2022 11:17:53 at https://augustohack.com.br/viver-de-home-office/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://augustohack.com.br/viver-de-home-office/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://augustohack.com.br/viver-de-home-office/ -O1 "C:\Users\Erileudo\Desktop\SITE AUGUSTO\AUGUSTO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://augustohack.com.br/viver-de-home-office/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:20	Error: 	"Forbidden" (403) at link https://c0.wp.com/p/jetpack/10.7/modules/shortcodes/img/slideshow-controls.png (from https://c0.wp.com/p/jetpack/10.7/css/jetpack.css)
+11:18:20	Error: 	"Forbidden" (403) at link https://c0.wp.com/p/jetpack/10.7/modules/shortcodes/img/slideshow-controls-2x.png (from https://c0.wp.com/p/jetpack/10.7/css/jetpack.css)
+11:18:20	Error: 	"Forbidden" (403) at link https://c0.wp.com/p/jetpack/10.7/modules/shortcodes/images/expand.png (from https://c0.wp.com/p/jetpack/10.7/css/jetpack.css)
+11:18:20	Error: 	"Forbidden" (403) at link https://c0.wp.com/p/jetpack/10.7/modules/shortcodes/images/collapse.png (from https://c0.wp.com/p/jetpack/10.7/css/jetpack.css)
+11:18:20	Error: 	"Not Found" (404) at link https://augustohack.com.br/viver-de-home-office/Trident/ (from https://augustohack.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+11:18:20	Error: 	"Not Found" (404) at link https://augustohack.com.br/viver-de-home-office/Edge/ (from https://augustohack.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+11:18:20	Error: 	"Not Found" (404) at link https://augustohack.com.br/viver-de-home-office/Gecko/ (from https://augustohack.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+11:18:20	Error: 	"Not Found" (404) at link https://augustohack.com.br/viver-de-home-office/Firefox/ (from https://augustohack.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+11:18:21	Error: 	"Not Found" (404) at link https://augustohack.com.br/viver-de-home-office/Version/ (from https://augustohack.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+11:18:21	Error: 	"Not Found" (404) at link https://augustohack.com.br/viver-de-home-office/version/ (from https://augustohack.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 75 links scanned, 64 files written (4189131 bytes overall) [3034016 bytes received at 108357 bytes/sec], 2033270 bytes transferred using HTTP compression in 49 files, ratio 27%, 5.3 requests per connection
+(10 errors, 0 warnings, 0 messages)
